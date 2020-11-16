@@ -1,0 +1,33 @@
+body { 
+  padding-bottom: 70px; 
+}
+
+main {
+  margin-bottom: 20px;
+}
+
+
+#bs-example-navbar-collapse-1 a {
+  text-align: center;
+}
+
+#header-nav {
+  background-color: rgb(200, 200, 230);
+}
+
+#header-nav a {
+  color: #500202;
+}
+
+article 
+{
+  background-color: rgb(220, 220, 230);
+  padding: 5px 20px;
+  margin-bottom: 30px;
+}
+
+article a {
+  color: #163652;
+  text-decoration: underline;
+}
+

@@ -19,4 +19,4 @@ https://asrudqvist.github.io/WebAssigments/assigment3/
 ### Statement
 https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment4/Assignment-4.md
 ### Solution
-https://asrudqvist.github.io/WebAssigments/assigment4/
+https://asrudqvist.github.io/WebAssigments/assigment4/index.html

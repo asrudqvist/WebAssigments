@@ -26,5 +26,5 @@ https://asrudqvist.github.io/WebAssigments/assigment4/index.html
 ### Statement
 https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment5/Assignment-5.md
 ### Solution
-https://asrudqvist.github.io/WebAssigments/assigment5/index.html
+https://asrudqvist.github.io/WebAssigments/assigment5/
 
